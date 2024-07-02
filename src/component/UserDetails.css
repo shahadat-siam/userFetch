@@ -1,0 +1,12 @@
+/* src/components/UserDetails.css */
+.user-details-card {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  
+  .user-avatar {
+    width: 80px;
+    height: 80px;
+  }
+  

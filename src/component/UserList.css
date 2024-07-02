@@ -1,0 +1,10 @@
+/* src/components/UserList.css */
+.user-list-card {
+    margin: 20px 0;
+  }
+  
+  .user-list-avatar {
+    width: 64px;
+    height: 64px;
+  }
+  
